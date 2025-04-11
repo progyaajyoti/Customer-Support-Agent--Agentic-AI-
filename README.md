@@ -3,7 +3,7 @@
 **Agentic Features:**
 
 **Autonomous Workflows:** *Decides whether to answer, fetch data (e.g., order status), refund, or escalate based on intent and sentiment.*
-**Proactive Engagement:** *Suggests solutions before explicit requests (e.g., “I see you’re asking about delivery—here’s your tracking”).*
+**Proactive Engagement:** *Suggests solutions before explicit requests (e.g., “I see you’re asking about delivery—here’s your tracking”).*/n
 **Adaptability:** *Updates its knowledge base or response strategy based on user feedback or resolved tickets.*
 
 **AI Components:**
